@@ -1,0 +1,2566 @@
+{
+  "lorebookVersion": 4,
+  "entries": [
+    {
+      "text": "Name: Monokuma\nGender: Unknown\nMind: Evil, playful, taunting, makes bear puns\nAppearance: Small robotic half-white half-black toy bear\nMonokuma trapped all of the students inside Hope's Peak Academy for unknown reasons. They love making others despair, and is using the class trials to bring despair to the entire world. They serve as an impartial judge in the Class Trial for the murder of Sayaka Maizono.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861911648,
+      "displayName": "Monokuma",
+      "id": "db2b4292-7966-47bd-9115-9f153ba1281f",
+      "keys": [
+        "Monokuma",
+        "headmaster",
+        "bear",
+        "mastermind",
+        "judge",
+        "principal"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Makoto Naegi\nGender: Male\nMind: Determined, friendly, low confidence\nAppearance: Jacket, brown hair, average height\nMakoto is the self-proclaimed most average person imaginable, and is only attending Hope's Peak due to winning a lottery. Makoto is known the Ultimate Lucky Student, despite having average luck. Makoto is the main protagonist of this story.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861907078,
+      "displayName": "Makoto Naegi",
+      "id": "6f404450-2230-4586-9731-cd3a0bd31dce",
+      "keys": [
+        "Mokoto",
+        "Naegi",
+        "Ultimate Lucky Student"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Kiyotaka Ishimaru (prefers Taka)\nGender: Male\nMind: Passionate, loud, just, righteous, leader\nAppearance: Well dressed, school uniform, white shirt\nTaka is known as the Ultimate Moral Compass due to his passion for behaving in a socially just way. Taka's passion and dedication is often overwhelming, but these traits also make Taka a fantastic leader.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861899700,
+      "displayName": "Kiyotaka Ishimaru",
+      "id": "2baa9076-0f46-40ea-a11d-2feb1cff94af",
+      "keys": [
+        "Kiyotaka",
+        "Taka",
+        "Ishimaru",
+        "Ultimate Moral Compass"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Byakuya Togami\nGender: Male\nMind: Stoic, dismissive, smart, arrogant, competitive\nAppearance: Blonde hair, glasses, well-dressed\nByakuya is an arrogant yet highly capable person. While Byakuya is known as the Ultimate Affluent Progeny, he has achieved incredible feats of his own merit.  Byakuya is very competitive, and views the world in a kill or be killed mindset.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861887558,
+      "displayName": "Byakuya Togami",
+      "id": "151997f6-7b3f-48ea-a361-906e6cde7d47",
+      "keys": [
+        "Byakuya",
+        "Togami",
+        "Ultimate Affluent Progeny"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Mondo Owada\nGender: Male\nMind: Tough, aggressive, profane\nAppearance: Tall, athletics, black jacket, brown hair\nMondo is known as the the leader of the biker gang \"Crazy Diamonds\", and is thus the Ultimate Biker Gang Leader. Mondo is known for being aggressive and swearing profusely, though Mondo is much more caring towards women. Mondo is known to represent the pinnacle of being \"manly\".",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861909442,
+      "displayName": "Mondo Owada",
+      "id": "bc874955-27b7-40b4-82b7-12107e7c95c8",
+      "keys": [
+        "Mondo",
+        "Owada",
+        "Crazy Diamonds",
+        "Ultimate Biker Gang Leader"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Leon Kuwata\nGender: Male\nMind: Rebellious,  laid back, gullible\nAppearance: Athletic, ginger hair, white shirt\nWhile Leon is known as the Ultimate Baseball Star, he actually has no passion for baseball and dreams of becoming a musician. Leon was the person who murdered Sayaka,  though no one is aware of this. Leon must now avoid his crime being discovered or else face execution.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861904466,
+      "displayName": "Leon Kuwata",
+      "id": "3bd8d285-7606-4fd1-a58c-daf91a673d9a",
+      "keys": [
+        "Leon",
+        "Kuwata",
+        "Ultimate Baseball Star"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Hifumi Yamada\nGender: Male\nMind: Upbeat, nerdy, inappropriate, perverted\nAppearance: Fat, glasses, white shirt\nHifumi is known as the Ultimate Fanfic Creator, and often obsesses over various anime and manga. Hifumi often makes perverted comments and inappropriate times. He is known to address everyone by their last name (such as Mr. Naegi).",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861894348,
+      "displayName": "Hifumi Yamada",
+      "id": "d34ae467-8d88-47bd-9510-b623b7b6ff6b",
+      "keys": [
+        "Hifumi",
+        "Yamada",
+        "Ultimate Fanfic Creator"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Yasuhiro Hagakure (prefers Hiro)\nGender: Male\nMind: Caring, selfish, laid back, gullible\nAppearance: Tall, black hair, white shirt\nHiro is obsessed with the occult, tarot cards, and other mystical items. Hiro is a very relaxed person who will befriend most people, though Hiro is quick to betray others if his own well-being is at risk. Hiro can occasionally read the future with low accuracy.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861922781,
+      "displayName": "Yasuhiro Hagakure",
+      "id": "f6cc0ded-5d95-4cfb-b44b-a5389376cbd0",
+      "keys": [
+        "Yasuhiro",
+        "Hiro",
+        "Hagakure",
+        "Ultimate Clairvoyant"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Sayaka Maizono (deceased)\nGender: Female\nMind: Upbeat, caring, paranoid\nAppearance: Fashionable, long black hair\nSayaka was known as the Ultimate Pop Sensation. Sayaka was found murdered in Makoto's bathroom, and is the subject of this class trial. Before she died, Sayaka had become paranoid at the thought of being trapped in Hope's Peak forever. Sayaka was close friends with Makoto.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861916525,
+      "displayName": "Sayaka Maizono",
+      "id": "2fcbc9b0-555a-45e5-8f00-117702bfea87",
+      "keys": [
+        "Sayaka",
+        "Maizono",
+        "Ultimate Pop Sensation",
+        "victim"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Kyoko Kirigiri\nGender: Female\nMind: Pensive, smart, determined\nAppearance: Jacket, white hair, gloves\nKyoko comes from a family of detectives and thus has become the Ultimate Detective, though not even Kyoko herself is aware of this. Kyoko is an expert at investigating murders and mysteries, and never gets any detail wrong. Kyoko has an eye for finer details most would not notice.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861902074,
+      "displayName": "Kyoko Kirigiri",
+      "id": "c7676c20-398e-4ca8-a66e-02269f907a76",
+      "keys": [
+        "Kyoko",
+        "Kirigiri"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Aoi Asahina (prefers Hina)\nGender: Female\nMind: Upbeat, positive, determined\nAppearance: Athletic, brown hair, red jacket\nHina is an upbeat, good-natured person who is determined to do her best. Hina is known as the Ultimate Swimming Pro. Hina has become close friends with Sakura due to their mutual love of fitness.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861885149,
+      "displayName": "Aoi Asahina",
+      "id": "aaa68134-8a25-45cf-8cfe-bde8e88c2348",
+      "keys": [
+        "Aoi",
+        "Asahina",
+        "Hina",
+        "Ultimate Swimming Pro"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Toko Fukawa\nGender: Female\nMind: Shy, perverted, obsessive, low self confidence\nAppearance: Skinny, glasses, black dress, black hair\nToko is known for writing incredible romance novels (despite never being in a relationship) and is known as the Ultimate Writing Prodigy. Toko is very shy and views herself very negatively. Toko also stutters frequently. Toko tends to get obsessed with certain men, and is stalking Byakuya.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861918469,
+      "displayName": "Toko Fukawa",
+      "id": "6caa781a-8a54-4f21-916f-d32061c4c235",
+      "keys": [
+        "Toko",
+        "Fukawa",
+        "Ultimate Writing Prodigy"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Sakura Ogami\nGender: Female (though she is mistaken as male occasionally)\nMind: Thoughtful, kind, determined, strong\nAppearance: Very tall, very muscular,  wearing a skirt\nSakura is the strongest fighter in the world, and is thus known as the Ultimate Martial Artist. Sakura's physique may be intimidating, but she is quite kind and cares deeply for her friend Hina. Sakura is sometimes called \"Ogre\" derogatorily. ",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861914501,
+      "displayName": "Sakura Ogami",
+      "id": "e3c609ac-1c2c-4fbf-8de2-74106f469d48",
+      "keys": [
+        "Sakura",
+        "Ogami",
+        "Ogre",
+        "Ultimate Martial Artist"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Celestia Ludenberg (prefers Celeste)\nGender: Female\nMind: Arrogant, elegant, deceptive, competitive\nAppearance: Pale, long black hair, gothic style\nCeleste is known as the Ultimate Gambler, and for good reason. Celeste is always working out a way to cheat and bluff her way out of a situation, and has even hidden her true name. Celeste's motto is \"adapt or die\".",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861890030,
+      "displayName": "Celestia Ludenberg",
+      "id": "7f74d37f-73ac-4ae4-bd8f-f62a2138db4d",
+      "keys": [
+        "Celeste",
+        "Celestia",
+        "Ludenberg",
+        "Ultimate Gambler"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Junko Enoshima (deceased)\nGender: Female\nMind: Uncaring, basic, vain, energetic\nAppearance: Fashionable, long blonde hair\nJunko was known as the Ultimate Fashionista. Junko died after being impaled by spears for disobeying Monokuma's rules. Junko's death seems unrelated to Sayaka's murder.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861896820,
+      "displayName": "Junko Enoshima",
+      "id": "c32a59e3-cde7-4ce4-89a3-bcbabcfde551",
+      "keys": [
+        "Junko",
+        "Enoshima",
+        "Ultimate Fashionista"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Name: Chihiro Fujisaki\nGender: Female\nMind: Shy, emotional, smart\nAppearance: Small, modest\nChihiro is known as the Ultimate Programmer, and has developed incredibly advanced artificial intelligence. However, Chihiro often doubts herself despite her abilities. Chihiro is known to apologize on the brink of tears  if she fears she has upset someone, though often her apologies are unnecessary. ",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861892124,
+      "displayName": "Chihiro Fujisaki",
+      "id": "10f9d17b-a3e4-4835-9995-5b3df511dcd6",
+      "keys": [
+        "Chihiro",
+        "Fujisaki",
+        "Ultimate Programmer"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Monokuma File\nThe Monokuma File is an entirely factual document distributed by Monokuma shortly after the discovery of Sayaka Maizono's body. The Monokuma File states that Sayaka's time of death was around 1:30 AM, and that the cause of death was a stab wound to the abdomen, and her right wrist was fractured. The Monokuma File states that Sayaka's body was found in the bathroom in Mokoto's room, in the Dormitory.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917763582,
+      "displayName": "Monokuma File",
+      "id": "f7b4ffd9-04b7-4356-a9cc-d67f7191cd92",
+      "keys": [
+        "Monokuma File"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Evidence of a Struggle\nScratches and gouges on the beds and walls of Mokoto's room indicates signs of a struggle.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917709449,
+      "displayName": "Evidence of a Struggle",
+      "id": "468572c0-cea9-42f4-be4c-42141776498f",
+      "keys": [
+        "signs of a struggle",
+        "signs of fighting",
+        "struggle",
+        "fighting"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Replica Sword\nThis replica sword was taken from the entryway of the school and placed in Makoto's room. The replica sword was found out of its sheath on the floor of Mokoto's room. The replica sword is covered in gold coating, except some missing from the handle and blade.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1656181587163,
+      "displayName": "Replica Sword",
+      "id": "5718f772-4431-4394-b917-349ca7200d42",
+      "keys": [
+        "sword",
+        "replica sword",
+        "gold weapon",
+        "katana",
+        "gold katana",
+        "gold"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Replica Sword Sheath\nThe sheath for a replica sword, found some distance away from the replica sword. The sheath shows signs of being scratched with a sharp object.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917778314,
+      "displayName": "Replica Sword Sheath",
+      "id": "372a24f4-0170-4838-88cc-802f50bb075d",
+      "keys": [
+        "sheath",
+        "sword sheath",
+        "replica sword sheath"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Switching Rooms\nOn the night of Sayaka's murder, Makoto and Sayaka had traded rooms and room keys. When Sayaka's body was discovered, Makoto's key was found in Makoto's room. Sayaka asked to switch rooms after someone had attempted to force their way into Sayaka's room. The only two people aware of the rooms being switched are Sayaka and Makoto.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1656132773109,
+      "displayName": "Switching Rooms",
+      "id": "4c5a10df-4f80-48cf-b697-ea210d742beb",
+      "keys": [
+        "switching rooms",
+        "switch rooms",
+        "swap rooms",
+        "swap keys",
+        "switch keys",
+        "change rooms",
+        "change keys",
+        "switching",
+        "switched",
+        "switch"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Toolkit\nEach male student was given a toolkit with a hammer and screwdriver. All the male students claim to not have opened their toolkit. However, Leon's toolkit was opened when Leon committed the murder. Leon's toolkit is missing its crowbar.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1656646639494,
+      "displayName": "Toolkit",
+      "id": "7d1abe94-59a1-4006-970f-b4a8f84be8ed",
+      "keys": [
+        "toolkit",
+        "tools",
+        "screwdriver",
+        "hammer",
+        "screws",
+        "unscrew"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": true,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Makoto's Room's Cleanliness\nMakoto's room contained no hair on the floor. The lint roller in Mokoto's room shows signs of being used. However, Mokoto claims to have never used the lint roller.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917754706,
+      "displayName": "Makoto's Room's Cleanliness",
+      "id": "a9b49eb0-dfd6-4056-8787-ddb2747ad8e1",
+      "keys": [
+        "lint",
+        "hair",
+        "clean floor",
+        "clean the floor",
+        "lint roller",
+        "Makoto's room's cleanliness"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Sayaka's Wrist\nSayaka's right wrist had been fractured, and gold residue was left at the injury's location. Sayaka's left hand has blood on the index finger.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917785712,
+      "displayName": "Sayaka's Wrist",
+      "id": "02010a35-fd98-4742-9b95-e042a27521f1",
+      "keys": [
+        "wrist",
+        "right wrist",
+        "fractured wrist",
+        "hands",
+        "wrists",
+        "left hand",
+        "Sayaka's wrist",
+        "Sayaka's wrists",
+        "Maizono's wrist",
+        "Maizono's wrists"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Dying Message\nA dying message was left on the wall of Makoto's bathroom - \"11037\". The students are not currently aware that the dying message is actually \"LEON\" upside-down, but they might be able to figure it out. It is assumed the dying message was written by Sayaka, and that the killer did not see the dying message.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1656136568575,
+      "displayName": "Dying Message",
+      "id": "37281253-ac05-4f25-9b36-acedd798e783",
+      "keys": [
+        "message",
+        "dying message",
+        "11037",
+        "bloody message",
+        "bathroom wall"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Bathroom Doorframe\nMakoto's bathroom door is difficult to open without knowing a trick. Sayaka and Makoto were the only two to know how to easily open Makoto's bathroom door. The doors to the bathroom in the boys dorm rooms do not lock.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917715548,
+      "displayName": "Bathroom Doorframe",
+      "id": "24a77543-f6de-46cf-9517-b11a7986bb4e",
+      "keys": [
+        "bathroom door",
+        "doorframe",
+        "bathroom door lock",
+        "locked bathroom door",
+        "bathroom doorframe"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Bathroom Doorknob\nMakoto's bathroom doorknob had been broken, as the screws holding it in place had all been partially or completely removed.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917653127,
+      "displayName": "Bathroom Doorknob",
+      "id": "95c5a1c9-a8fa-4e79-95e7-aaa55f0402fc",
+      "keys": [
+        "doorknob",
+        "forced entry",
+        "unscrewed",
+        "removed screws",
+        "broken doorknob",
+        "bathroom doorknob"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Dorm Nameplates\nThe nameplates on the doors to Sayaka's and Makoto's rooms were switched. Makoto did not switch the nameplates on the doors.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917672197,
+      "displayName": "Dorm Nameplates",
+      "id": "7a0300c3-e1eb-46a3-8944-96673ab7659c",
+      "keys": [
+        "nameplates",
+        "dorm nameplates",
+        "door nameplate",
+        "nameplate",
+        "dorm nameplate"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Kitchen Knife Set\nThe kitchen in the dining hall contains a set of kitchen knives, though one had gone missing.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917744341,
+      "displayName": "Kitchen Knife Set",
+      "id": "3c9c099e-d8ab-4de5-aad9-c0ed83cc3f48",
+      "keys": [
+        "knife",
+        "stab wound",
+        "kitchen knife",
+        "knives",
+        "dining hall",
+        "kitchen",
+        "kitchen knife set"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Aoi'a Account\nThe knife from the kitchen had gone missing when Aoi was in the dining hall. Aoi swears Makoto had not come to the dining hall.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917718080,
+      "displayName": "Aoi's Account",
+      "id": "9a4b8f22-16d9-4396-aba0-98850cf8a34e",
+      "keys": [
+        "dining hall",
+        "Aoi's account",
+        "Aoi's testimony",
+        "Hina's account",
+        "Hina's testimony",
+        "knife gone missing",
+        "missing knife",
+        "kitchen knife"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Trash Duty\nThe trash room within the school can only be opened by the person with the trash room key. The trash room contains an incinerator protected by a metal gate. It might be possible to throw an object through the metal gate in the trash room.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917818092,
+      "displayName": "Trash Duty",
+      "id": "e2ac8361-6a3a-49c7-9925-b0dcf71d80c0",
+      "keys": [
+        "trash room",
+        "incinerator",
+        "trash room key",
+        "trash duty",
+        "dispose of evidence"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Incinerator\nThe incinerator can be activated by a switch far behind the metal gate in the trash room. Hifumi was on cleaning duty and claims the incinerator was off, but after the murder the incinerator was found to be on.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917732145,
+      "displayName": "Incinerator",
+      "id": "8d997ff5-6381-4132-9e63-2c1fd43cf5e2",
+      "keys": [
+        "incinerator",
+        "trash duty",
+        "cleaning duty",
+        "dispose of evidence",
+        "trash room key",
+        "burned evidence",
+        "destroy evidence"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Burnt Shirt Piece\nA piece of burnt clothing with a blood stain was found next to the incinerator. The piece of burnt clothing appears to have come from a white shirt.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917663717,
+      "displayName": "Burnt Shirt Piece",
+      "id": "49df4028-05af-4443-a2b1-86e9250e1891",
+      "keys": [
+        "shirt",
+        "white shirt",
+        "bloody shirt",
+        "incinerator",
+        "burnt shirt",
+        "burn shirt",
+        "burnt clothing",
+        "burnt shirt piece",
+        "shirt piece",
+        "white shirt piece"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Evidence: Shattered Crystal Ball\nShards of glass were found next to the incinerator. The shards of glass are from Yasuhiro's palm-sized crystal ball. Yasuhiro left his crystal ball in the laundry room, so anyone could have taken it.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655917794551,
+      "displayName": "Shattered Crystal Ball",
+      "id": "a76100da-cac6-4f27-abda-dea4d15ec506",
+      "keys": [
+        "crystal ball",
+        "shattered glass",
+        "laundry room",
+        "incinerator",
+        "ball",
+        "shattered crystal ball"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The following is a list of all of the students trapped inside Hope's Peak: Hina, Byakuya, Celeste, Chihiro, Hifumi, Junko (deceased), Taka, Kyoko, Leon, Makoto, Mondo, Sakura, Sayaka (deceased), Toko, Hiro\nMonokuma is also at Hope's Peak, ensuring everyone follows his rules.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": 0
+      },
+      "lastUpdatedAt": 1655861655606,
+      "displayName": "Characters",
+      "id": "c724a4f5-ad34-4db5-9bd8-1222b553c878",
+      "keys": [
+        "who",
+        "student",
+        "students",
+        "murderer",
+        "suspect",
+        "whom",
+        "which one of us",
+        "people",
+        "person"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": true,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0792cec-cca5-4bb2-a54e-186a48cbe723",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The following is a list of all of the evidence gathered in relation to Sayaka's murder: Aoi's account, bathroom doorframe, bathroom doorknob, burnt shirt piece, dorm nameplates, dying message, evidence of a struggle, incinerator, kitchen knife set, Makoto's room's cleanliness, Monokuma File, replica sword, replica sword sheath, Sayaka's wrist, shattered crystal ball, switching rooms, toolkit, trash duty",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": 1
+      },
+      "lastUpdatedAt": 1655861700626,
+      "displayName": "Evidence",
+      "id": "ab583228-a590-41e3-ac6f-7205f4a47162",
+      "keys": [
+        "proof",
+        "evidence",
+        "reason",
+        "reasoning",
+        "what"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": true,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0792cec-cca5-4bb2-a54e-186a48cbe723",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Each student has their own dorm room that can be accessed from the dormitory. Each dorm room contains a desk, bed, trash can, table, light, pen and paper, lint roller, cameras and monitors only Monokuma can access, and metal plates covering the windows. Each dorm room also has a bathroom, though only the dorm rooms belonging to women have bathroom door locks. Each dorm room has one entrance, which is a soundproof door with one unpickable lock. Each student was given the key to their dorm room. The male students were also given a toolkit, while the female students were given a sewing kit.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861798944,
+      "displayName": "Dorm Rooms",
+      "id": "ed91de04-0b94-4659-97d7-943faef8ea53",
+      "keys": [
+        "dorm room",
+        "dorm",
+        "bedroom",
+        "Makoto's room",
+        "Sayaka's room",
+        "Hina's room",
+        "Byakuya's room",
+        "Celeste's room",
+        "Chihiro's room",
+        "Hifumi's room",
+        "Junko's room",
+        "Taka's room",
+        "Kyoko's room",
+        "Leon's room",
+        "Mondo's room",
+        "Sakura's room",
+        "Toko's room",
+        "Hiro's room",
+        "dorm rooms"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Hope's Peak Academy contains two main areas: the dormitory and the main hall. Monokuma has ensured all the exits and entrances to Hope's Peak have been sealed.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": 2
+      },
+      "lastUpdatedAt": 1655861704116,
+      "displayName": "Locations",
+      "id": "23cbddff-75fd-4937-88de-ba89eb48e35f",
+      "keys": [
+        "where",
+        "Hope's Peak"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": true,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "d0792cec-cca5-4bb2-a54e-186a48cbe723",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Each dorm room has a bathroom with a shower, sink, and toilet. The water for the dorm room bathrooms are turned off at night. Only the dorm rooms that belong to a woman have bathroom door locks. The only exit in each dorm room bathroom leads to the dorm room it belongs to.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861801162,
+      "displayName": "Dorm Room Bathrooms",
+      "id": "36607ed3-164e-41b8-91d1-2b70413f2325",
+      "keys": [
+        "dorm room bathroom",
+        "dorm room bathrooms",
+        "Makoto's bathroom",
+        "Sayaka's bathroom",
+        "Hina's bathroom",
+        "Byakuya's bathroom",
+        "Celeste's bathroom",
+        "Chihiro's bathroom",
+        "Hifumi's bathroom",
+        "Junko's bathroom",
+        "Taka's bathroom",
+        "Kyoko's bathroom",
+        "Leon's bathroom",
+        "Mondo's bathroom",
+        "Sakura's bathroom",
+        "Toko's bathroom",
+        "Hiro's bathroom",
+        "bathroom"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Makoto's room was the same as all other male dorm rooms except for the fact Makoto brought a replica sword in a replica sword sheath to his room for defense. His bathroom door does not fit in the doorframe correctly, and thus appears to be locked. However, there is a trick to opening it. After the murder, Makoto's bathroom doorknob was broken and there were signs of a struggle. The replica sword and sheath was found on the floor, and the lint roller appeared to be used. Sayaka's body was found in Makoto's bathroom.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimTop",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861726452,
+      "displayName": "Makoto's Room",
+      "id": "cb65957d-e78b-421b-b5d0-53c3b0625d6c",
+      "keys": [
+        "Makoto's room",
+        "the room the victim was found",
+        "the victim's room"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "Sayaka's body was found in Makoto's bathroom. She was found with a lethal stab wound, a broken right wrist with gold residue, and blood on her index finger. A dying message was found hidden behind Sayaka's body, reading \"11037\".",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861728246,
+      "displayName": "Makoto's Bathroom",
+      "id": "9eb85f9b-9075-4ffe-9051-d63f0262d32f",
+      "keys": [
+        "Makoto's bathroom",
+        "where the body was found",
+        "body found",
+        "body was found",
+        "Sayaka's body",
+        "the bathroom"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The trash room is accessible from the dormitory. It features an incinerator that is activated by a button. The incinerator is locked behind metal bars. The only way to open the metal bars to access the incinerator is to have the trash room key. The trash room key is given to the person on trash duty, which was Hifumi when the murder happened. After the murder, the incinerator was found on with broken glass and a burnt shirt piece on the ground next to it. The only exit to the trash room leads to the dorimitory.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861718408,
+      "displayName": "Trash Room",
+      "id": "1ab93800-9d16-4293-a636-cf9966039518",
+      "keys": [
+        "trash room",
+        "incinerator",
+        "garbage room",
+        "dispose of evidence",
+        "dispose"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "There is a men's bathroom and a women's bathroom accessible from the dormitory, and another pair accessible from the main hall. It seems to have no connection to the murder.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861723505,
+      "displayName": "Men and Women's Public Bathrooms",
+      "id": "708c86a6-0c89-44e8-adcd-2396c8330576",
+      "keys": [
+        "public bathroom",
+        "bathroom"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "A laundry room is accessible from the dormitory. It has many washers and dryers. Hiro claims to have left his crystal ball in the laundry room, though it was nowhere to be found after the murder.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861733808,
+      "displayName": "Laundry Room",
+      "id": "f22d7d65-17b5-43ba-96b7-0551642f3e7e",
+      "keys": [
+        "clean",
+        "wash",
+        "wash clothing",
+        "laundry",
+        "laundry room"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The dining room mostly has tables and chairs. The dining room is accessible from the dormitory.  Going through the dining room is the only way to access the kitchen.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861803732,
+      "displayName": "Dining Room",
+      "id": "aee6c567-578a-4dc6-8c9e-180af2f98a22",
+      "keys": [
+        "dining room",
+        "kitchen",
+        "cafeteria"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The main hall allows access to the following rooms: the classrooms, the trial room, A/V room, school store, entranceway, public bathroom, trophy room, and the dormitory.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": 4
+      },
+      "lastUpdatedAt": 1655861730949,
+      "displayName": "Main Hall",
+      "id": "38de1c20-c937-4710-b078-1a5185b37fc0",
+      "keys": [
+        "main hall",
+        "hallway",
+        "hallways"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": true,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The kitchen is only accessible through the dining room. The kitchen has a lot of food of various types. The kitchen also contains a set of kitchen knives. After the murder, one of the kitchen knives was missing.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861736596,
+      "displayName": "Kitchen",
+      "id": "bd54bbbd-6073-450d-bcaf-c02cf4ed92de",
+      "keys": [
+        "kitchen",
+        "cook",
+        "food",
+        "snack",
+        "kitchen knives",
+        "kitchen knife set",
+        "missing knife"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The dormitory allows access to the following rooms: the dining room, laundry room, public bathroom, trash room, dorm rooms for each student, and the main hall.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": 3
+      },
+      "lastUpdatedAt": 1655861796720,
+      "displayName": "Dormitory",
+      "id": "77be0796-3d4b-44f7-9245-91be951b88a6",
+      "keys": [
+        "dormitory",
+        "dorms",
+        "hallway",
+        "hallways",
+        "the dormitory"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": true,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "There are two classrooms accessible from the main hall: classroom 1-A and classroom 1-B. The classrooms contain many tables and chairs, but seem unconnected to the murder.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861805842,
+      "displayName": "Classrooms",
+      "id": "53492f4b-b0b8-47e2-aa09-9352010c1560",
+      "keys": [
+        "classrooms",
+        "classroom 1-A",
+        "classroom",
+        "class",
+        "classroom 1-B"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The trial room is where the class trial is taking place. While the trial room is connected to the main hall, Monokuma has ensured no one will leave until the murder is solved.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861714934,
+      "displayName": "Trial Room",
+      "id": "5ff6fd67-2157-475f-badf-df7e043ccba3",
+      "keys": [
+        "trial room",
+        "here"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The A/V room contains many monitors and computers. The A/V room is connected to the main hall. While the A/V room has no direct connection to the murder, this is the room where the students were shown a video of the outside world that could serve as a motive.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861808013,
+      "displayName": "A/V Room",
+      "id": "b7092adf-edff-4b04-81d6-2dd7f4f09192",
+      "keys": [
+        "A/V room",
+        "video room",
+        "watch a video",
+        "watch the video",
+        "videos",
+        "video"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The school store is connected to the main hall. The school store seems to have no connection to the murder. The school store contains a wide variety of items.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861720877,
+      "displayName": "School Store",
+      "id": "3c6b4c10-d22d-4b54-bfec-6b23cb8f299f",
+      "keys": [
+        "store",
+        "buy",
+        "school store"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The entranceway is connected to the main hall. The entranceway is sealed with a giant vault door protected by ceiling-mounted turrets. The entranceway does not seem to be connected to the murder.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861794610,
+      "displayName": "Entranceway",
+      "id": "2f9fc680-4ae4-418d-acfb-8726daa124b5",
+      "keys": [
+        "entrance way",
+        "entranceway",
+        "exit",
+        "main exit",
+        "main entrance",
+        "leave the school",
+        "leave school"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The trophy room is connected to the main hall. The trophy room contains various trophies and awards. The trophy room is the only way to access the gym. The trophy room is where the replica sword and replica sword sheath was originally found.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861711791,
+      "displayName": "Trophy Room",
+      "id": "2ca81f92-8521-41b3-be4e-1290a294c33e",
+      "keys": [
+        "trophy room",
+        "trophy",
+        "trophies"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    },
+    {
+      "text": "The gym holds various sports equipment. The only way to access the gym is through the trophy room. The gym is where Junko was killed by Monokuma for not following Monokuma's rules. The gym does not seem to have any connection to Sayaka's murder.",
+      "contextConfig": {
+        "prefix": "[",
+        "suffix": "]\n",
+        "tokenBudget": 2048,
+        "reservedTokens": 0,
+        "budgetPriority": 400,
+        "trimDirection": "trimBottom",
+        "insertionType": "newline",
+        "maximumTrimType": "sentence",
+        "insertionPosition": -1
+      },
+      "lastUpdatedAt": 1655861791809,
+      "displayName": "Gym",
+      "id": "321a7c87-c803-49ea-aa09-945fc6df5d8a",
+      "keys": [
+        "gym",
+        "Junko's body"
+      ],
+      "searchRange": 1000,
+      "enabled": true,
+      "forceActivation": false,
+      "keyRelative": false,
+      "nonStoryActivatable": false,
+      "category": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "loreBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ]
+    }
+  ],
+  "settings": {
+    "orderByKeyLocations": false
+  },
+  "categories": [
+    {
+      "name": "Characters",
+      "id": "d0b82712-0e1a-4dff-acba-c6353b16f534",
+      "enabled": true,
+      "createSubcontext": false,
+      "subcontextSettings": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655687691663,
+        "displayName": "New Lorebook Entry",
+        "id": "4edef8c7-1fc2-46b7-a92d-2b0d83b38b1d",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "useCategoryDefaults": false,
+      "categoryDefaults": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655674640080,
+        "displayName": "New Lorebook Entry",
+        "id": "724b2044-eb71-4c67-92ac-0a3842916587",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "categoryBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ],
+      "open": true
+    },
+    {
+      "name": "Evidence",
+      "id": "aac1028b-5115-4891-8b18-4d70feb0fc3c",
+      "enabled": true,
+      "createSubcontext": false,
+      "subcontextSettings": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655746878336,
+        "displayName": "New Lorebook Entry",
+        "id": "e1d4043d-b5c0-4f3b-9ddf-6556b8845d63",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "useCategoryDefaults": false,
+      "categoryDefaults": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655691212952,
+        "displayName": "New Lorebook Entry",
+        "id": "b8bc3143-8589-4ca7-be5a-7f5085f5cd2e",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "categoryBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ],
+      "open": false
+    },
+    {
+      "name": "Locations",
+      "id": "a1880bb1-ee85-4eb6-be07-637444b9e2ed",
+      "enabled": true,
+      "createSubcontext": false,
+      "subcontextSettings": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655778076378,
+        "displayName": "New Lorebook Entry",
+        "id": "3eab1206-832f-4a14-afba-e39cf5c27768",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "useCategoryDefaults": false,
+      "categoryDefaults": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655769891159,
+        "displayName": "New Lorebook Entry",
+        "id": "f84eaeeb-03db-4002-b3ae-1ce83dd9e2bd",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "categoryBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ],
+      "open": true
+    },
+    {
+      "name": "Overarching",
+      "id": "d0792cec-cca5-4bb2-a54e-186a48cbe723",
+      "enabled": true,
+      "createSubcontext": false,
+      "subcontextSettings": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "",
+          "suffix": "\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655778076379,
+        "displayName": "New Lorebook Entry",
+        "id": "20530a89-d434-444c-843a-f8643c32e73a",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "useCategoryDefaults": false,
+      "categoryDefaults": {
+        "text": "",
+        "contextConfig": {
+          "prefix": "[",
+          "suffix": "]\n",
+          "tokenBudget": 2048,
+          "reservedTokens": 0,
+          "budgetPriority": 400,
+          "trimDirection": "trimBottom",
+          "insertionType": "newline",
+          "maximumTrimType": "sentence",
+          "insertionPosition": -1
+        },
+        "lastUpdatedAt": 1655861687459,
+        "displayName": "New Lorebook Entry",
+        "id": "a8f4e47f-b2f2-4df1-9416-08f49294d946",
+        "keys": [],
+        "searchRange": 1000,
+        "enabled": true,
+        "forceActivation": false,
+        "keyRelative": false,
+        "nonStoryActivatable": false,
+        "category": "",
+        "loreBiasGroups": [
+          {
+            "phrases": [],
+            "ensureSequenceFinish": false,
+            "generateOnce": true,
+            "bias": 0,
+            "enabled": true,
+            "whenInactive": false
+          }
+        ]
+      },
+      "categoryBiasGroups": [
+        {
+          "phrases": [],
+          "ensureSequenceFinish": false,
+          "generateOnce": true,
+          "bias": 0,
+          "enabled": true,
+          "whenInactive": false
+        }
+      ],
+      "open": false
+    }
+  ]
+}
